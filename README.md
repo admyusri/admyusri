@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Adam from Malaysia currently working on to build my portfolio in Github. I have a strong interest in developing my python programming skills especially related to machine learning. Feel free to share any platform where I can practice my skills on this.
+
 <!--
 **admyusri/admyusri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
